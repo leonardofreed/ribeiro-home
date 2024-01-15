@@ -1,7 +1,7 @@
 {
     "name": "Restaurante Ribeiro",
     "short_name": "Melhor comida da região.",
-    "start_url": "https://ribeiro.vercel.app/",
+    "start_url": "https://leonardofreed.github.io/ribeiro-home/",
     "display": "standalone",
     "description": "Nós Rest Ribeiro atendemos na região co imperial",
     "lang": " The default language of your application",
